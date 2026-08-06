@@ -22,6 +22,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | Ticket ID     | Title                          | Priority | Type                  | Status   |
 |---------------|--------------------------------|----------|-----------------------|----------|
 | INC0012861    | Legal Name Change              | Low      | Account Update        | Resolved |
+| INC0012853    | New Hire Account Setup         | Medium   | New Hire Access       | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

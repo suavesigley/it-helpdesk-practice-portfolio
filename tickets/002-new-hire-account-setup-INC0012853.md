@@ -45,6 +45,12 @@ Screenshots taken of:
 - Group memberships showing Engineering, VPN-Users and CodeRepo-Access
 
 ## Screenshots
-- [Create New AD User form](../images/002-new-hire-account-setup/create-user-form.png)
-- - [User Profile](../images/002-new-hire-account-setup/profile.png)
-- [Group memberships](../image/002-new-hire-account-setup/groups-added.png)
+
+![Create New AD User form](../images/002-new-hire-account-setup/create-user-form.png)  
+*Creating the new AD user account with correct details*
+
+![User Profile](../images/002-new-hire-account-setup/profile.png)  
+*New user profile after account creation*
+
+![Group memberships](../images/002-new-hire-account-setup/groups-added.png)  
+*User successfully added to Engineering, VPN-Users, and CodeRepo-Access groups*

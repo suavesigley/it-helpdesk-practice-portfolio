@@ -1,8 +1,8 @@
-# Progress Log
-
 ## Week 1 (starting Aug 5, 2026)
-- Sessions completed: 1
-- Tickets documented: 1
-- Focus: First ticket + setting up documentation habit
-- Completed: INC0012861 (Legal Name Change)
-- Notes: Established clean case-study format. Will add screenshots from next ticket onward.
+- Sessions completed: 2
+- Tickets documented: 2
+- Focus: Account creation + group management
+- Completed:
+  - INC0012861 – Legal Name Change
+  - INC0012853 – New Hire Account Setup
+- Notes: Comfortable with creating users and adding groups in Directory. Screenshots now being captured.

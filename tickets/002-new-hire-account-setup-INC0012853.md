@@ -43,3 +43,8 @@ New hire account successfully created and provisioned with all requested access.
 Screenshots taken of:
 - Create New AD User form
 - Group memberships showing Engineering, VPN-Users and CodeRepo-Access
+
+## Screenshots
+- [Create New AD User form](../images/002-new-hire-account-setup/create-user-form.png)
+- - [User Profile](../images/002-new-hire-account-setup/profile.png)
+- [Group memberships](../image/002-new-hire-account-setup/groups-added.png)

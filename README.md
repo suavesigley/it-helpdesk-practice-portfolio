@@ -19,10 +19,11 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 
 ## Ticket Log
 
-| Ticket ID     | Title                          | Priority | Type                  | Status   |
-|---------------|--------------------------------|----------|-----------------------|----------|
-| INC0012861    | Legal Name Change              | Low      | Account Update        | Resolved |
-| INC0012853    | New Hire Account Setup         | Medium   | New Hire Access       | Resolved |
+| Ticket ID     | Title                              | Priority | Type                        | Status   |
+|---------------|------------------------------------|----------|-----------------------------|----------|
+| INC0012861    | Legal Name Change                  | Low      | Account Update              | Resolved |
+| INC0012853    | New Hire Account Setup             | Medium   | New Hire Access             | Resolved |
+| INC0012860    | Department Transfer Access         | Medium   | Access Modification         | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

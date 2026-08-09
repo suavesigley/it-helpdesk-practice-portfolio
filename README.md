@@ -24,6 +24,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC0012861    | Legal Name Change                  | Low      | Account Update              | Resolved |
 | INC0012853    | New Hire Account Setup             | Medium   | New Hire Access             | Resolved |
 | INC0012860    | Department Transfer Access         | Medium   | Access Modification         | Resolved |
+| INC0012870    | All Printers Offline               | High     | Infrastructure / Print Server | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

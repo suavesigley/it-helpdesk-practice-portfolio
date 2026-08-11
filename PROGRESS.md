@@ -1,6 +1,6 @@
 ## Week 1 (starting Aug 5, 2026)
-- Sessions completed: 5
-- Tickets documented: 5
+- Sessions completed: 6
+- Tickets documented: 6
 - Focus: Account creation, group management, and access modification (mover process)
 - Completed:
   - INC0012861 – Legal Name Change
@@ -8,4 +8,5 @@
   - INC0012860 – Department Transfer Access Modification
   - INC0012870 – All Printers Offline (Print Server reboot)
 - Notes: First High priority infrastructure ticket. Successfully identified and resolved a degraded print server.
-- Notes: Demonstrated understanding of joiner and mover processes with proper access revocation.
+- INC0012855 – Password Expired Reset (with identity verification)
+- Notes: First high-priority password reset with proper identity verification process.

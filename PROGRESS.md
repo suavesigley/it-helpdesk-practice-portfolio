@@ -1,6 +1,6 @@
 ## Week 1 (starting Aug 5, 2026)
-- Sessions completed: 6
-- Tickets documented: 6
+- Sessions completed: 7
+- Tickets documented: 7
 - Focus: Account creation, group management, and access modification (mover process)
 - Completed:
   - INC0012861 – Legal Name Change
@@ -10,3 +10,5 @@
 - Notes: First High priority infrastructure ticket. Successfully identified and resolved a degraded print server.
 - INC0012855 – Password Expired Reset (with identity verification)
 - Notes: First high-priority password reset with proper identity verification process.
+- NET17858250052021 – VPN Disconnected (group + DNS fix)
+- Notes: Combined Active Directory and networking troubleshooting on a high-priority remote access issue.

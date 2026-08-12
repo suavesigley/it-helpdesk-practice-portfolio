@@ -33,14 +33,14 @@ User was able to log in and regain access to her workstation and development env
 
 ## Screenshots
 
-![Authentication status showing password expired](../images/006-password-expired/password-expired-status.png)  
+![Authentication status showing password expired](../images/006-password-expired-reset/password-expired-status.png)  
 *User account showing password expired status*
 
-![Identity verification step](../images/006-password-expired/identity-verification.png)  
+![Identity verification step](../images/006-password-expired-reset/identity-verification.png)  
 *Entering the verification code received from the user*
 
-![Chat confirmation of verification code](../images/006-password-expired/user-chat-code.png)  
+![Chat confirmation of verification code](../images/006-password-expired-reset/user-chat-code.png)  
 *User provided the one-time code via Team Chat*
 
-![Temporary password issued](../images/006-password-expired/temp-password-issued.png)  
+![Temporary password issued](../images/006-password-expired-reset/temp-password-issued.png)  
 *Temporary password generated and ready to share securely*

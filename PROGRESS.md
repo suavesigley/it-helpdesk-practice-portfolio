@@ -12,3 +12,5 @@
 - Notes: First high-priority password reset with proper identity verification process.
 - NET17858250052021 – VPN Disconnected (group + DNS fix)
 - Notes: Combined Active Directory and networking troubleshooting on a high-priority remote access issue.
+- INC0012858 – Floor 3 Internet Outage (Critical switch reboot)
+- Notes: First Critical network outage. Successfully isolated and resolved a floor-specific switch failure.

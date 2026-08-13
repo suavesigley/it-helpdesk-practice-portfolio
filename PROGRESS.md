@@ -1,6 +1,6 @@
 ## Week 1 (starting Aug 5, 2026)
-- Sessions completed: 7
-- Tickets documented: 7
+- Sessions completed: 8
+- Tickets documented: 8
 - Focus: Account creation, group management, and access modification (mover process)
 - Completed:
   - INC0012861 – Legal Name Change

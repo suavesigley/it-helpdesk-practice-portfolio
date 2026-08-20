@@ -28,6 +28,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC0012855    | Password Expired / Unable to Login | High     | Account Access / Password Reset | Resolved |
 | NET17858250052021 | VPN Disconnected / Won’t Reconnect | High     | Remote Access / VPN         | Resolved |
 | INC0012858    | Floor 3 Internet Outage            | Critical | Network / Infrastructure    | Resolved |
+| INC0012865    | Incorrect Computer Timezone        | High     | Workstation Config / Timezone | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

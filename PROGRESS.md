@@ -1,6 +1,6 @@
 ## Week 1 (starting Aug 5, 2026)
-- Sessions completed: 8
-- Tickets documented: 8
+- Sessions completed: 9
+- Tickets documented: 9
 - Focus: Account creation, group management, and access modification (mover process)
 - Completed:
   - INC0012861 – Legal Name Change
@@ -14,3 +14,5 @@
 - Notes: Combined Active Directory and networking troubleshooting on a high-priority remote access issue.
 - INC0012858 – Floor 3 Internet Outage (Critical switch reboot)
 - Notes: First Critical network outage. Successfully isolated and resolved a floor-specific switch failure.
+- INC0012865 - Incorrect Computer Timezone       
+- 

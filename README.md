@@ -29,6 +29,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | NET17858250052021 | VPN Disconnected / Won’t Reconnect | High     | Remote Access / VPN         | Resolved |
 | INC0012858    | Floor 3 Internet Outage            | Critical | Network / Infrastructure    | Resolved |
 | INC0012865    | Incorrect Computer Timezone        | High     | Workstation Config / Timezone | Resolved |
+| INC0012847    | Cannot Access Marketing Shared Drive | High     | Remote Access / File Share  | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

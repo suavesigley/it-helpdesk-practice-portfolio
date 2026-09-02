@@ -30,6 +30,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC0012858    | Floor 3 Internet Outage            | Critical | Network / Infrastructure    | Resolved |
 | INC0012865    | Incorrect Computer Timezone        | High     | Workstation Config / Timezone | Resolved |
 | INC0012847    | Cannot Access Marketing Shared Drive | High     | Remote Access / File Share  | Resolved |
+| INC120296     | Second Monitor Black Screen        | Medium   | Hardware / Display          | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

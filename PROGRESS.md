@@ -7,23 +7,22 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
 ---
 
 ## Week 1 (Aug 5–11, 2026)
-- Sessions completed: Multiple
 - Tickets documented: 6
 - Focus: Account management, password resets, group changes, basic remote support
 
 **Completed:**
-- INC0012861 – Legal Name Change (Account Update)
+- INC0012861 – Legal Name Change
 - INC0012853 – New Hire Account Setup
 - INC0012860 – Department Transfer Access Modification
 - INC0012862 – Second Monitor No Signal
-- INC0012870 – All Printers Offline (Print Server)
+- INC0012870 – All Printers Offline
 - INC0012855 – Password Expired / Unable to Log In
 
 ---
 
 ## Week 2 (Aug 12–22, 2026)
 - Tickets documented: 5
-- Focus: High/Critical infrastructure, remote access, networking, file share, and hardware replacement
+- Focus: High/Critical infrastructure, remote access, networking, file share, hardware replacement
 
 **Completed:**
 - NET17858250052021 – VPN Disconnected / Won’t Reconnect
@@ -36,36 +35,43 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
 
 ## Week 3 (Aug 23 – Sep 5, 2026)
 - Tickets documented: 2
-- Focus: Post-update display issues and account access
+- Focus: Display issues and account access
 
 **Completed:**
-- INC120296 – Second Monitor Black Screen (resolved via driver/system updates)
+- INC120296 – Second Monitor Black Screen
 - INC483365 – Cannot Access Email (Password Expired)
 
 ---
 
+## Week 4 (Starting Sep 5, 2026)
+- Tickets documented: 1
+- Focus: Remote access and shared folder mapping
+
+**Completed:**
+- INC170187 – Need Access to Shared Department Folder
+
+---
+
 ## Running Totals (as of September 5, 2026)
-- Total tickets documented: **13**
+- Total tickets documented: **14**
 - Priority breakdown:
   - Critical: 2
   - High: 6
-  - Medium: 5
+  - Medium: 6
 - Key skills practiced:
-  - Active Directory (user creation, groups, password resets, name changes)
+  - Active Directory (users, groups, password resets, name changes)
   - Remote desktop support
-  - VPN troubleshooting
+  - VPN troubleshooting & connection
+  - Network drive mapping
   - Network switch / infrastructure issues
   - Print server recovery
-  - Drive mapping & file share access
-  - Timezone / regional settings
   - Hardware replacement process
   - Display / graphics driver troubleshooting
-  - Secure identity verification & password resets
+  - Secure identity verification
 
 ---
 
 ## Notes
-- Consistent documentation of every ticket with steps, resolution, and screenshots.
-- Emphasis on secure processes (identity verification before password resets).
-- Portfolio now includes a solid mix of account management, remote access, infrastructure, and hardware tickets.
-- Next ticket will begin **Week 4**.
+- Consistent documentation of every ticket with steps, resolution, and screenshots where available.
+- Strong emphasis on secure processes (identity verification before password resets).
+- Portfolio now contains a well-rounded mix of account, remote access, infrastructure, and hardware tickets.

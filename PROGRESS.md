@@ -44,19 +44,20 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
 ---
 
 ## Week 4 (Starting Sep 5, 2026)
-- Tickets documented: 1
-- Focus: Remote access and shared folder mapping
+- Tickets documented: 2
+- Focus: Remote access, shared folders, and email client issues
 
 **Completed:**
 - INC170187 – Need Access to Shared Department Folder
+- INC760828 – Cannot Download Email Attachments
 
 ---
 
 ## Running Totals (as of September 5, 2026)
-- Total tickets documented: **14**
+- Total tickets documented: **15**
 - Priority breakdown:
   - Critical: 2
-  - High: 6
+  - High: 7
   - Medium: 6
 - Key skills practiced:
   - Active Directory (users, groups, password resets, name changes)
@@ -68,10 +69,11 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
   - Hardware replacement process
   - Display / graphics driver troubleshooting
   - Secure identity verification
+  - Email client repair
 
 ---
 
 ## Notes
 - Consistent documentation of every ticket with steps, resolution, and screenshots where available.
 - Strong emphasis on secure processes (identity verification before password resets).
-- Portfolio now contains a well-rounded mix of account, remote access, infrastructure, and hardware tickets.
+- Portfolio continues to grow with a balanced mix of account, remote access, infrastructure, hardware, and email client tickets.

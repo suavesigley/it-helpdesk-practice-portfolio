@@ -34,22 +34,22 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
 
 ---
 
-## Week 3 (Aug 23 – Sep 2, 2026)
-- Tickets documented: 1
-- Focus: Post-update display / driver issues
+## Week 3 (Aug 23 – Sep 5, 2026)
+- Tickets documented: 2
+- Focus: Post-update display issues and account access
 
 **Completed:**
 - INC120296 – Second Monitor Black Screen (resolved via driver/system updates)
--  INC483365 – Cannot Access Email (Password Expired)
+- INC483365 – Cannot Access Email (Password Expired)
 
 ---
 
-## Running Totals (as of September 2, 2026)
-- Total tickets documented: **12**
+## Running Totals (as of September 5, 2026)
+- Total tickets documented: **13**
 - Priority breakdown:
   - Critical: 2
   - High: 6
-  - Medium: 4
+  - Medium: 5
 - Key skills practiced:
   - Active Directory (user creation, groups, password resets, name changes)
   - Remote desktop support
@@ -60,6 +60,7 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
   - Timezone / regional settings
   - Hardware replacement process
   - Display / graphics driver troubleshooting
+  - Secure identity verification & password resets
 
 ---
 
@@ -67,3 +68,4 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
 - Consistent documentation of every ticket with steps, resolution, and screenshots.
 - Emphasis on secure processes (identity verification before password resets).
 - Portfolio now includes a solid mix of account management, remote access, infrastructure, and hardware tickets.
+- Next ticket will begin **Week 4**.

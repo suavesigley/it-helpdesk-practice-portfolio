@@ -40,6 +40,7 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
 
 **Completed:**
 - INC120296 – Second Monitor Black Screen (resolved via driver/system updates)
+-  INC483365 – Cannot Access Email (Password Expired)
 
 ---
 

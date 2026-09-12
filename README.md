@@ -36,6 +36,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC483365          | Cannot Access Email (Password Expired)     | Medium    | Account Access / Password     | Resolved |
 | INC170187          | Need Access to Shared Department Folder    | Medium    | Remote Access / File Share    | Resolved |
 | INC760828          | Cannot Download Email Attachments          | High      | Email Client Troubleshooting  | Resolved |
+| INC750760          | Cannot Print to Network Printer            | Medium    | Printer / Network Printing    | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

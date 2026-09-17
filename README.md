@@ -38,6 +38,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC760828          | Cannot Download Email Attachments          | High      | Email Client Troubleshooting  | Resolved |
 | INC750760          | Cannot Print to Network Printer            | Medium    | Printer / Network Printing    | Resolved |
 | INC251978          | Accidentally Deleted Important Files       | High      | Data Recovery                 | Resolved |
+| INC850432          | Cannot Access Email on Mobile Device       | Medium    | Mobile Email / Client         | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

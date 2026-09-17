@@ -43,9 +43,9 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
 
 ---
 
-## Week 4 (Sep 5 – Sep 16, 2026)
-- Tickets documented: 5
-- Focus: Remote access, email client, performance, network printing, and data recovery
+## Week 4 (Sep 5 – Sep 17, 2026)
+- Tickets documented: 6
+- Focus: Remote access, email client, performance, network printing, data recovery, and mobile email
 
 **Completed:**
 - INC170187 – Need Access to Shared Department Folder
@@ -53,15 +53,16 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
 - INC886742 – Computer Running Extremely Slow
 - INC750760 – Cannot Print to Network Printer
 - INC251978 – Accidentally Deleted Important Files
+- INC850432 – Cannot Access Email on Mobile Device
 
 ---
 
-## Running Totals (as of September 16, 2026)
-- Total tickets documented: **18**
+## Running Totals (as of September 17, 2026)
+- Total tickets documented: **19**
 - Priority breakdown:
   - Critical: 2
   - High: 8
-  - Medium: 8
+  - Medium: 9
 - Key skills practiced:
   - Active Directory (users, groups, password resets, name changes)
   - Remote desktop support
@@ -76,10 +77,11 @@ Focus: realistic ticket resolution, Active Directory, networking, remote support
   - Performance troubleshooting (disk cleanup + updates)
   - Use of internal documentation for device configuration
   - Data recovery via Cloud Drive Version History
+  - Mobile email client troubleshooting
 
 ---
 
 ## Notes
 - Consistent documentation of every ticket with steps, resolution, and screenshots where available.
 - Strong emphasis on secure processes (identity verification before password resets).
-- Portfolio now includes a strong data recovery ticket in addition to the existing mix of account, remote access, infrastructure, hardware, email, performance, and printing work.
+- Portfolio now includes a good range of account, remote access, infrastructure, hardware, email, performance, printing, data recovery, and mobile support tickets.

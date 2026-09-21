@@ -28,10 +28,10 @@ Account management, Active Directory, password resets, networking, critical infr
 ---
 
 ## September 2026
-**Tickets completed:** 10
+**Tickets completed:** 11
 
 **Focus areas:**  
-Remote support, email client troubleshooting, performance issues, network printing, data recovery, mobile email support, scareware removal, and drive mapping.
+Remote support, email, performance, printing, data recovery, mobile email, scareware, drive mapping, and ISP/network connectivity.
 
 **Completed tickets:**
 - INC120296 – Second Monitor Black Screen
@@ -44,13 +44,14 @@ Remote support, email client troubleshooting, performance issues, network printi
 - INC850432 – Cannot Access Email on Mobile Device
 - INC162456 – Scareware Full-Screen Warning
 - INC893078 – Can’t Find Department Files (Drive Letter Missing)
+- NET17858249649920 – WiFi Keeps Disconnecting (Critical)
 
 ---
 
 ## Running Totals (as of September 21, 2026)
-- **Total tickets documented:** 21
+- **Total tickets documented:** 22
 - **Priority breakdown:**
-  - Critical: 2
+  - Critical: 3
   - High: 9
   - Medium: 10
 
@@ -69,10 +70,11 @@ Remote support, email client troubleshooting, performance issues, network printi
 - Use of internal documentation
 - Data recovery via Cloud Drive Version History
 - Scareware / tech support scam recognition and removal
+- Upstream ISP connectivity troubleshooting
 
 ---
 
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
 - Strong emphasis on secure processes and user education.
-- Portfolio shows consistent hands-on practice across a wide range of Tier 1 / Service Desk scenarios.
+- Portfolio now includes multiple Critical network incidents (floor outage + ISP failure) in addition to a broad range of Tier 1 Service Desk scenarios.

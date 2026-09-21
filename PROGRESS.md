@@ -28,10 +28,10 @@ Account management, Active Directory, password resets, networking, critical infr
 ---
 
 ## September 2026
-**Tickets completed:** 8
+**Tickets completed:** 9
 
 **Focus areas:**  
-Remote support, email client troubleshooting, performance issues, network printing, data recovery, and mobile email support.
+Remote support, email client troubleshooting, performance issues, network printing, data recovery, mobile email support, and scareware removal.
 
 **Completed tickets:**
 - INC120296 – Second Monitor Black Screen
@@ -42,14 +42,15 @@ Remote support, email client troubleshooting, performance issues, network printi
 - INC750760 – Cannot Print to Network Printer
 - INC251978 – Accidentally Deleted Important Files
 - INC850432 – Cannot Access Email on Mobile Device
+- INC162456 – Scareware Full-Screen Warning
 
 ---
 
-## Running Totals (as of September 17, 2026)
-- **Total tickets documented:** 19
+## Running Totals (as of September 21, 2026)
+- **Total tickets documented:** 20
 - **Priority breakdown:**
   - Critical: 2
-  - High: 8
+  - High: 9
   - Medium: 9
 
 **Key skills demonstrated:**
@@ -64,12 +65,13 @@ Remote support, email client troubleshooting, performance issues, network printi
 - Secure identity verification
 - Email client repair (desktop & mobile)
 - Performance troubleshooting (disk cleanup + updates)
-- Data recovery via Cloud Drive Version History
 - Use of internal documentation
+- Data recovery via Cloud Drive Version History
+- Scareware / tech support scam recognition and removal
 
 ---
 
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
-- Strong emphasis on secure processes (identity verification before account changes).
-- Portfolio shows consistent hands-on practice across account management, remote access, infrastructure, hardware, email, performance, printing, and data recovery.
+- Strong emphasis on secure processes (identity verification before account changes) and user education during social-engineering style attacks.
+- Portfolio now includes a solid scareware incident in addition to the existing mix of account, remote access, infrastructure, hardware, email, performance, printing, and data recovery work.

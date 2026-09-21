@@ -28,10 +28,10 @@ Account management, Active Directory, password resets, networking, critical infr
 ---
 
 ## September 2026
-**Tickets completed:** 9
+**Tickets completed:** 10
 
 **Focus areas:**  
-Remote support, email client troubleshooting, performance issues, network printing, data recovery, mobile email support, and scareware removal.
+Remote support, email client troubleshooting, performance issues, network printing, data recovery, mobile email support, scareware removal, and drive mapping.
 
 **Completed tickets:**
 - INC120296 – Second Monitor Black Screen
@@ -43,15 +43,16 @@ Remote support, email client troubleshooting, performance issues, network printi
 - INC251978 – Accidentally Deleted Important Files
 - INC850432 – Cannot Access Email on Mobile Device
 - INC162456 – Scareware Full-Screen Warning
+- INC893078 – Can’t Find Department Files (Drive Letter Missing)
 
 ---
 
 ## Running Totals (as of September 21, 2026)
-- **Total tickets documented:** 20
+- **Total tickets documented:** 21
 - **Priority breakdown:**
   - Critical: 2
   - High: 9
-  - Medium: 9
+  - Medium: 10
 
 **Key skills demonstrated:**
 - Active Directory (user creation, groups, password resets, name changes)
@@ -73,5 +74,5 @@ Remote support, email client troubleshooting, performance issues, network printi
 
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
-- Strong emphasis on secure processes (identity verification before account changes) and user education during social-engineering style attacks.
-- Portfolio now includes a solid scareware incident in addition to the existing mix of account, remote access, infrastructure, hardware, email, performance, printing, and data recovery work.
+- Strong emphasis on secure processes and user education.
+- Portfolio shows consistent hands-on practice across a wide range of Tier 1 / Service Desk scenarios.

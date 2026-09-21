@@ -40,6 +40,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC251978          | Accidentally Deleted Important Files       | High      | Data Recovery                 | Resolved |
 | INC850432          | Cannot Access Email on Mobile Device       | Medium    | Mobile Email / Client         | Resolved |
 | INC162456          | Scareware Full-Screen Warning              | High      | Malware / Scareware Removal   | Resolved |
+| INC893078          | Can’t Find Department Files (Drive Missing)| Medium    | Network Drive Mapping         | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

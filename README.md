@@ -42,6 +42,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC162456          | Scareware Full-Screen Warning              | High      | Malware / Scareware Removal   | Resolved |
 | INC893078          | Can’t Find Department Files (Drive Missing)| Medium    | Network Drive Mapping         | Resolved |
 | NET17858249649920  | WiFi Keeps Disconnecting                   | Critical  | Network / ISP Connectivity    | Resolved |
+| INC620434          | Laptop Won’t Wake (Black Screen)           | Critical  | Hardware / Power State        | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

@@ -28,10 +28,10 @@ Account management, Active Directory, password resets, networking, critical infr
 ---
 
 ## September 2026
-**Tickets completed:** 11
+**Tickets completed:** 12
 
 **Focus areas:**  
-Remote support, email, performance, printing, data recovery, mobile email, scareware, drive mapping, and ISP/network connectivity.
+Remote support, email, performance, printing, data recovery, mobile email, scareware, drive mapping, ISP connectivity, and hardware power-state issues.
 
 **Completed tickets:**
 - INC120296 – Second Monitor Black Screen
@@ -45,13 +45,14 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 - INC162456 – Scareware Full-Screen Warning
 - INC893078 – Can’t Find Department Files (Drive Letter Missing)
 - NET17858249649920 – WiFi Keeps Disconnecting (Critical)
+- INC620434 – Laptop Won’t Wake (Black Screen + Blinking Power Light) (Critical)
 
 ---
 
-## Running Totals (as of September 21, 2026)
-- **Total tickets documented:** 22
+## Running Totals (as of September 24, 2026)
+- **Total tickets documented:** 23
 - **Priority breakdown:**
-  - Critical: 3
+  - Critical: 4
   - High: 9
   - Medium: 10
 
@@ -62,7 +63,7 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 - Network drive mapping
 - Network switch / infrastructure issues
 - Print server & network printer troubleshooting
-- Hardware replacement process
+- Hardware replacement and power-state recovery
 - Display / graphics driver troubleshooting
 - Secure identity verification
 - Email client repair (desktop & mobile)
@@ -71,10 +72,11 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 - Data recovery via Cloud Drive Version History
 - Scareware / tech support scam recognition and removal
 - Upstream ISP connectivity troubleshooting
+- Hard reset / power drain procedures for unresponsive laptops
 
 ---
 
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
-- Strong emphasis on secure processes and user education.
-- Portfolio now includes multiple Critical network incidents (floor outage + ISP failure) in addition to a broad range of Tier 1 Service Desk scenarios.
+- Strong emphasis on secure processes and calm user guidance during high-pressure incidents.
+- Portfolio now includes four Critical tickets spanning network outages, ISP failure, and hardware power issues.

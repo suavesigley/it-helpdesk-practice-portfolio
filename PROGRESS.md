@@ -49,15 +49,27 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 
 ---
 
-## Running Totals (as of September 24, 2026)
-- **Total tickets documented:** 23
+## October 2026
+**Tickets completed:** 1
+
+**Focus areas:**  
+Temporary / contractor account creation and least-privilege access.
+
+**Completed tickets:**
+- INC111932 – Outside Contractor Temporary WiFi Access
+
+---
+
+## Running Totals (as of October 5, 2026)
+- **Total tickets documented:** 24
 - **Priority breakdown:**
   - Critical: 4
   - High: 9
   - Medium: 10
+  - Low: 1
 
 **Key skills demonstrated:**
-- Active Directory (user creation, groups, password resets, name changes)
+- Active Directory (user creation, groups, password resets, name changes, temporary accounts)
 - Remote desktop support
 - VPN troubleshooting & connection
 - Network drive mapping
@@ -72,11 +84,12 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 - Data recovery via Cloud Drive Version History
 - Scareware / tech support scam recognition and removal
 - Upstream ISP connectivity troubleshooting
-- Hard reset / power drain procedures for unresponsive laptops
+- Hard reset / power drain procedures
+- Contractor / temporary account creation with least privilege
 
 ---
 
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
-- Strong emphasis on secure processes and calm user guidance during high-pressure incidents.
-- Portfolio now includes four Critical tickets spanning network outages, ISP failure, and hardware power issues.
+- Strong emphasis on secure processes, naming conventions, and least-privilege access.
+- Portfolio continues to expand with both high-impact critical incidents and routine but policy-driven account work.

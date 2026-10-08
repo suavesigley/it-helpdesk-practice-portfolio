@@ -45,6 +45,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC620434          | Laptop Won’t Wake (Black Screen)           | Critical  | Hardware / Power State        | Resolved |
 | INC111932          | Outside Contractor Temporary WiFi Access   | Low       | Account Creation / Temp Access| Resolved |
 | INC562414          | Shared Folder Access After Department Transfer | Medium | Access / Drive Mapping     | Resolved |
+| INC674125          | Floor 1 Network Outage After Power Flicker | Critical  | Network / Infrastructure      | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

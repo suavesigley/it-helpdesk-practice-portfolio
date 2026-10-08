@@ -50,14 +50,14 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 ---
 
 ## October 2026
-**Tickets completed:** 1
+**Tickets completed:** 2
 
 **Focus areas:**  
-Temporary / contractor account creation and least-privilege access.
+Temporary contractor accounts and post-transfer department access.
 
 **Completed tickets:**
 - INC111932 – Outside Contractor Temporary WiFi Access
-
+- INC562414 – Shared Folder Access After Department Transfer
 ---
 
 ## Running Totals (as of October 5, 2026)

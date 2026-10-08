@@ -44,6 +44,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | NET17858249649920  | WiFi Keeps Disconnecting                   | Critical  | Network / ISP Connectivity    | Resolved |
 | INC620434          | Laptop Won’t Wake (Black Screen)           | Critical  | Hardware / Power State        | Resolved |
 | INC111932          | Outside Contractor Temporary WiFi Access   | Low       | Account Creation / Temp Access| Resolved |
+| INC562414          | Shared Folder Access After Department Transfer | Medium | Access / Drive Mapping     | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

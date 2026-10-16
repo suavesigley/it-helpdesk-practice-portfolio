@@ -64,11 +64,11 @@ Temporary accounts, post-transfer access, critical network outage, critical hard
 ---
 
 ## Running Totals (as of October 5, 2026)
-- **Total tickets documented:** 24
+- **Total tickets documented:** 28
 - **Priority breakdown:**
-  - Critical: 4
+  - Critical: 6
   - High: 9
-  - Medium: 10
+  - Medium: 12
   - Low: 1
 
 **Key skills demonstrated:**

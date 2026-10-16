@@ -50,10 +50,10 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 ---
 
 ## October 2026
-**Tickets completed:** 5
+**Tickets completed:** 6
 
 **Focus areas:**  
-Temporary accounts, post-transfer access, critical network outage, critical hardware replacement, and browser hijacker removal.
+Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements (desktop + laptop), and browser hijacker removal.
 
 **Completed tickets:**
 - INC111932 – Outside Contractor Temporary WiFi Access
@@ -61,24 +61,26 @@ Temporary accounts, post-transfer access, critical network outage, critical hard
 - INC674125 – Floor 1 Network Outage After Power Flicker (Critical)
 - INC174551 – Customer Support PC Completely Dead (Critical)
 - INC513694 – Browser Search Hijacked (SearchWave)
+- INC721417 – Dead Remote Support Laptop (Critical)
+
 ---
 
-## Running Totals (as of October 5, 2026)
-- **Total tickets documented:** 28
+## Running Totals (as of October 17, 2026)
+- **Total tickets documented:** **29**
 - **Priority breakdown:**
-  - Critical: 6
+  - Critical: 7
   - High: 9
   - Medium: 12
   - Low: 1
 
 **Key skills demonstrated:**
-- Active Directory (user creation, groups, password resets, name changes, temporary accounts)
+- Active Directory (user creation, groups, password resets, name changes, temporary/contractor accounts)
 - Remote desktop support
 - VPN troubleshooting & connection
 - Network drive mapping
 - Network switch / infrastructure issues
 - Print server & network printer troubleshooting
-- Hardware replacement and power-state recovery
+- Hardware replacement (desktop and laptop) including imaging, asset registration, checkout, and shipping
 - Display / graphics driver troubleshooting
 - Secure identity verification
 - Email client repair (desktop & mobile)
@@ -88,11 +90,12 @@ Temporary accounts, post-transfer access, critical network outage, critical hard
 - Scareware / tech support scam recognition and removal
 - Upstream ISP connectivity troubleshooting
 - Hard reset / power drain procedures
-- Contractor / temporary account creation with least privilege
+- Browser hijacker / adware removal (security scan + manual extension removal)
+- Critical incident response for both network and hardware failures
 
 ---
 
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
-- Strong emphasis on secure processes, naming conventions, and least-privilege access.
-- Portfolio continues to expand with both high-impact critical incidents and routine but policy-driven account work.
+- Strong emphasis on secure processes, least privilege, and calm guidance during high-pressure incidents.
+- Portfolio now contains a solid mix of account, remote access, infrastructure, hardware (desktop + laptop), email, performance, printing, data recovery, and security-related tickets, including 7 Critical incidents.

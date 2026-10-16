@@ -50,16 +50,17 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 ---
 
 ## October 2026
-**Tickets completed:** 3
+**Tickets completed:** 5
 
 **Focus areas:**  
-Temporary contractor accounts, post-transfer access, and critical network outage response.
+Temporary accounts, post-transfer access, critical network outage, critical hardware replacement, and browser hijacker removal.
 
 **Completed tickets:**
 - INC111932 – Outside Contractor Temporary WiFi Access
 - INC562414 – Shared Folder Access After Department Transfer
 - INC674125 – Floor 1 Network Outage After Power Flicker (Critical)
-
+- INC174551 – Customer Support PC Completely Dead (Critical)
+- INC513694 – Browser Search Hijacked (SearchWave)
 ---
 
 ## Running Totals (as of October 5, 2026)

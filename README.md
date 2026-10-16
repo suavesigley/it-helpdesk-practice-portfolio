@@ -47,6 +47,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC562414          | Shared Folder Access After Department Transfer | Medium | Access / Drive Mapping     | Resolved |
 | INC674125          | Floor 1 Network Outage After Power Flicker | Critical  | Network / Infrastructure      | Resolved |
 | INC513694          | Browser Search Hijacked (SearchWave)       | Medium    | Malware / Browser Hijacker    | Resolved |
+| INC721417          | Dead Remote Support Laptop                 | Critical  | Hardware Replacement (Laptop) | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

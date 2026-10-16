@@ -49,6 +49,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC513694          | Browser Search Hijacked (SearchWave)       | Medium    | Malware / Browser Hijacker    | Resolved |
 | INC721417          | Dead Remote Support Laptop                 | Critical  | Hardware Replacement (Laptop) | Resolved |
 | INC257781          | Printer Offline (Floor1-Printer-A)         | High      | Printer / Network Printing    | Resolved |
+| INC785823          | Microphone Not Working (All Apps)          | Medium    | Audio / Driver                | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

@@ -46,6 +46,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC111932          | Outside Contractor Temporary WiFi Access   | Low       | Account Creation / Temp Access| Resolved |
 | INC562414          | Shared Folder Access After Department Transfer | Medium | Access / Drive Mapping     | Resolved |
 | INC674125          | Floor 1 Network Outage After Power Flicker | Critical  | Network / Infrastructure      | Resolved |
+| INC513694          | Browser Search Hijacked (SearchWave)       | Medium    | Malware / Browser Hijacker    | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

@@ -50,10 +50,10 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 ---
 
 ## October 2026
-**Tickets completed:** 6
+**Tickets completed:** 7
 
 **Focus areas:**  
-Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements (desktop + laptop), and browser hijacker removal.
+Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements (desktop + laptop), browser hijacker removal, and network printer troubleshooting.
 
 **Completed tickets:**
 - INC111932 – Outside Contractor Temporary WiFi Access
@@ -62,14 +62,15 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 - INC174551 – Customer Support PC Completely Dead (Critical)
 - INC513694 – Browser Search Hijacked (SearchWave)
 - INC721417 – Dead Remote Support Laptop (Critical)
+- INC257781 – Printer Offline (Floor1-Printer-A)
 
 ---
 
 ## Running Totals (as of October 17, 2026)
-- **Total tickets documented:** **29**
+- **Total tickets documented:** **30**
 - **Priority breakdown:**
   - Critical: 7
-  - High: 9
+  - High: 10
   - Medium: 12
   - Low: 1
 

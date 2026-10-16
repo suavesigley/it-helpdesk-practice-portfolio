@@ -50,10 +50,10 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 ---
 
 ## October 2026
-**Tickets completed:** 7
+**Tickets completed:** 8
 
 **Focus areas:**  
-Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements (desktop + laptop), browser hijacker removal, and network printer troubleshooting.
+Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements (desktop + laptop), browser hijacker removal, network printer troubleshooting, and audio driver issues.
 
 **Completed tickets:**
 - INC111932 – Outside Contractor Temporary WiFi Access
@@ -63,15 +63,16 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 - INC513694 – Browser Search Hijacked (SearchWave)
 - INC721417 – Dead Remote Support Laptop (Critical)
 - INC257781 – Printer Offline (Floor1-Printer-A)
+- INC785823 – Microphone Not Working (All Apps)
 
 ---
 
 ## Running Totals (as of October 17, 2026)
-- **Total tickets documented:** **30**
+- **Total tickets documented:** **31**
 - **Priority breakdown:**
   - Critical: 7
   - High: 10
-  - Medium: 12
+  - Medium: 13
   - Low: 1
 
 **Key skills demonstrated:**
@@ -92,6 +93,7 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 - Upstream ISP connectivity troubleshooting
 - Hard reset / power drain procedures
 - Browser hijacker / adware removal (security scan + manual extension removal)
+- Audio driver troubleshooting and manual driver installation
 - Critical incident response for both network and hardware failures
 
 ---
@@ -99,4 +101,4 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
 - Strong emphasis on secure processes, least privilege, and calm guidance during high-pressure incidents.
-- Portfolio now contains a solid mix of account, remote access, infrastructure, hardware (desktop + laptop), email, performance, printing, data recovery, and security-related tickets, including 7 Critical incidents.
+- Portfolio now contains a solid mix of account, remote access, infrastructure, hardware (desktop + laptop), email, performance, printing, data recovery, security, and audio-related tickets, including 7 Critical incidents.

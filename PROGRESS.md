@@ -50,10 +50,10 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 ---
 
 ## October 2026
-**Tickets completed:** 8
+**Tickets completed:** 9
 
 **Focus areas:**  
-Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements (desktop + laptop), browser hijacker removal, network printer troubleshooting, and audio driver issues.
+Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements (desktop + laptop), browser hijacker removal, network printer troubleshooting, audio driver issues, and mailbox licence restoration.
 
 **Completed tickets:**
 - INC111932 – Outside Contractor Temporary WiFi Access
@@ -64,19 +64,20 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 - INC721417 – Dead Remote Support Laptop (Critical)
 - INC257781 – Printer Offline (Floor1-Printer-A)
 - INC785823 – Microphone Not Working (All Apps)
+- INC463220 – No Email After Return From Leave
 
 ---
 
-## Running Totals (as of October 17, 2026)
-- **Total tickets documented:** **31**
+## Running Totals (as of October 27, 2026)
+- **Total tickets documented:** **32**
 - **Priority breakdown:**
   - Critical: 7
-  - High: 10
+  - High: 11
   - Medium: 13
   - Low: 1
 
 **Key skills demonstrated:**
-- Active Directory (user creation, groups, password resets, name changes, temporary/contractor accounts)
+- Active Directory (user creation, groups, password resets, name changes, temporary/contractor accounts, licence management)
 - Remote desktop support
 - VPN troubleshooting & connection
 - Network drive mapping
@@ -92,8 +93,9 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 - Scareware / tech support scam recognition and removal
 - Upstream ISP connectivity troubleshooting
 - Hard reset / power drain procedures
-- Browser hijacker / adware removal (security scan + manual extension removal)
+- Browser hijacker / adware removal
 - Audio driver troubleshooting and manual driver installation
+- Mailbox / licence restoration after extended leave
 - Critical incident response for both network and hardware failures
 
 ---

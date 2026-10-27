@@ -50,10 +50,10 @@ Remote support, email, performance, printing, data recovery, mobile email, scare
 ---
 
 ## October 2026
-**Tickets completed:** 9
+**Tickets completed:** 10
 
 **Focus areas:**  
-Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements (desktop + laptop), browser hijacker removal, network printer troubleshooting, audio driver issues, and mailbox licence restoration.
+Temporary contractor accounts, post-transfer access, critical network outage, critical hardware replacements, browser hijacker removal, printer troubleshooting, audio drivers, mailbox licence restoration, and performance issues.
 
 **Completed tickets:**
 - INC111932 – Outside Contractor Temporary WiFi Access
@@ -65,42 +65,41 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 - INC257781 – Printer Offline (Floor1-Printer-A)
 - INC785823 – Microphone Not Working (All Apps)
 - INC463220 – No Email After Return From Leave
+- INC334421 – Computer Extremely Slow (Stuck Cloud Sync)
 
 ---
 
 ## Running Totals (as of October 27, 2026)
-- **Total tickets documented:** **32**
+- **Total tickets documented:** **33**
 - **Priority breakdown:**
   - Critical: 7
   - High: 11
-  - Medium: 13
+  - Medium: 14
   - Low: 1
 
 **Key skills demonstrated:**
-- Active Directory (user creation, groups, password resets, name changes, temporary/contractor accounts, licence management)
+- Active Directory (user creation, groups, password resets, name changes, temporary accounts, licence management)
 - Remote desktop support
 - VPN troubleshooting & connection
 - Network drive mapping
 - Network switch / infrastructure issues
 - Print server & network printer troubleshooting
-- Hardware replacement (desktop and laptop) including imaging, asset registration, checkout, and shipping
+- Hardware replacement (desktop and laptop)
 - Display / graphics driver troubleshooting
 - Secure identity verification
-- Email client repair (desktop & mobile)
-- Performance troubleshooting (disk cleanup + updates)
+- Email client repair and mailbox licence restoration
+- Performance troubleshooting (disk cleanup, updates, stuck sync processes)
 - Use of internal documentation
 - Data recovery via Cloud Drive Version History
-- Scareware / tech support scam recognition and removal
+- Scareware / browser hijacker / adware removal
 - Upstream ISP connectivity troubleshooting
 - Hard reset / power drain procedures
-- Browser hijacker / adware removal
 - Audio driver troubleshooting and manual driver installation
-- Mailbox / licence restoration after extended leave
-- Critical incident response for both network and hardware failures
+- Critical incident response
 
 ---
 
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
-- Strong emphasis on secure processes, least privilege, and calm guidance during high-pressure incidents.
-- Portfolio now contains a solid mix of account, remote access, infrastructure, hardware (desktop + laptop), email, performance, printing, data recovery, security, and audio-related tickets, including 7 Critical incidents.
+- Strong emphasis on secure processes, least privilege, and methodical troubleshooting (ruling out malware before assuming infection).
+- Portfolio now includes 33 documented tickets with a strong mix of account, network, hardware, email, performance, and security work.

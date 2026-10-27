@@ -50,6 +50,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC721417          | Dead Remote Support Laptop                 | Critical  | Hardware Replacement (Laptop) | Resolved |
 | INC257781          | Printer Offline (Floor1-Printer-A)         | High      | Printer / Network Printing    | Resolved |
 | INC785823          | Microphone Not Working (All Apps)          | Medium    | Audio / Driver                | Resolved |
+| INC463220          | No Email After Return From Leave           | High      | Account / Mailbox Licence     | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

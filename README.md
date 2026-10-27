@@ -51,6 +51,7 @@ This repository showcases practical experience relevant to Tier 1 / Help Desk / 
 | INC257781          | Printer Offline (Floor1-Printer-A)         | High      | Printer / Network Printing    | Resolved |
 | INC785823          | Microphone Not Working (All Apps)          | Medium    | Audio / Driver                | Resolved |
 | INC463220          | No Email After Return From Leave           | High      | Account / Mailbox Licence     | Resolved |
+| INC334421          | Computer Extremely Slow (Stuck Cloud Sync) | Medium    | Performance / Troubleshooting | Resolved |
 
 ## How to Navigate
 Each ticket file contains:

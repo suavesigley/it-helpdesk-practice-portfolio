@@ -69,10 +69,21 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 
 ---
 
-## Running Totals (as of October 27, 2026)
-- **Total tickets documented:** **33**
+## November 2026
+**Tickets completed:** 1
+
+**Focus areas:**  
+Critical shared hardware replacement (warehouse laptop).
+
+**Completed tickets:**
+- INC178363 – Shared Warehouse Laptop Completely Dead (Critical)
+
+---
+
+## Running Totals (as of November 3, 2026)
+- **Total tickets documented:** **34**
 - **Priority breakdown:**
-  - Critical: 7
+  - Critical: 8
   - High: 11
   - Medium: 14
   - Low: 1
@@ -84,7 +95,7 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 - Network drive mapping
 - Network switch / infrastructure issues
 - Print server & network printer troubleshooting
-- Hardware replacement (desktop and laptop)
+- Hardware replacement (desktop, laptop, and shared/warehouse devices) including imaging, Manual Domain Enrollment, asset registration, checkout, and shipping
 - Display / graphics driver troubleshooting
 - Secure identity verification
 - Email client repair and mailbox licence restoration
@@ -95,11 +106,11 @@ Temporary contractor accounts, post-transfer access, critical network outage, cr
 - Upstream ISP connectivity troubleshooting
 - Hard reset / power drain procedures
 - Audio driver troubleshooting and manual driver installation
-- Critical incident response
+- Critical incident response for both network and hardware failures
 
 ---
 
 ## Notes
 - Every ticket is documented with clear steps, resolution, and screenshots where available.
-- Strong emphasis on secure processes, least privilege, and methodical troubleshooting (ruling out malware before assuming infection).
-- Portfolio now includes 33 documented tickets with a strong mix of account, network, hardware, email, performance, and security work.
+- Strong emphasis on choosing the correct deployment method (Server Imaging vs Manual Domain Enrollment) based on device role.
+- Portfolio now includes 34 documented tickets with 8 Critical incidents.
